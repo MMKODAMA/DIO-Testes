@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Makoto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Makoto\\.nuget\\packages"
+    ]
+  }
+}
